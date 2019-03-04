@@ -43,7 +43,7 @@
     </servlet>
     <!-- 配置访问resful-->
     <servlet-mapping>
-        <servlet-name>springmvc</servlet-name>
+        <servlet-name>myMavens</servlet-name>
         <url-pattern>/</url-pattern>
     </servlet-mapping>
 </web-app>
